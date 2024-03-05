@@ -30,13 +30,13 @@ public class Sketch extends PApplet {
      strokeWeight(1);
      stroke(0);
       //draw petals
-     fill(255, 100, 0);
+     fill(199, 51, 32);
      ellipse((float) (width*.25), height/6, width/2, height/3);
      ellipse((float) (width*.75), height/6, width/2, height/3);
      ellipse((float) (width*.25), height/2, width/2, height/3);
      ellipse((float) (width*.75), height/2, width/2, height/3);
       //draw middle part
-     fill(255, 128, 0);
+     fill(255, 249, 166);
      ellipse(width/2, height/3, width/2, height/3);
 
 
